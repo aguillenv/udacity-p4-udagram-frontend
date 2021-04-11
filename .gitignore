@@ -35,3 +35,5 @@ UserInterfaceState.xcuserstate
 node_modules
 
 set_env.sh
+deployment.yml
+service.yml
